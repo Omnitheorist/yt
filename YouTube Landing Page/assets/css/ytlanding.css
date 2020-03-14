@@ -1,0 +1,14 @@
+#legacylabel {
+  margin: auto;
+  font-family: 'Archivo Black';
+  border-radius: 5px;
+  background-color: #62d112;
+}
+
+.label.info {
+  background-color: #fcd00f;
+  margin: auto;
+  font-family: 'Archivo Black';
+  border-radius: 5px;
+}
+
